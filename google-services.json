@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68101928519",
+    "project_id": "pixawaretest",
+    "storage_bucket": "pixawaretest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68101928519:android:091e10cf76e417abf9a362",
+        "android_client_info": {
+          "package_name": "co.pixaware.Pixaware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-ihJ0vVkZJZeP2j5YPmXrdfxHSh9_C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
