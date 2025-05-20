@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDmOMf2EcG7NVBQhZc6PmVUTua3_23Xabc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605077977810</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.garbcode.garbcodeapp</string>
+	<key>PROJECT_ID</key>
+	<string>garbcodetest</string>
+	<key>STORAGE_BUCKET</key>
+	<string>garbcodetest.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605077977810:ios:0bbc7fcf6f1d6fcbd78b0b</string>
+</dict>
+</plist>
