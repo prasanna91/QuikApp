@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>68101928519-dmqof813o8l7r76784h5cdr36e2hf8bn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.68101928519-dmqof813o8l7r76784h5cdr36e2hf8bn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>68101928519-aqjbfh0drvfh67c20lrbc0ge19cj1hbi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASF3Ep0rXtpNUoLswXCx1m823hEsvM_CI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>68101928519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.pixaware.pixaware</string>
+	<key>PROJECT_ID</key>
+	<string>pixawaretest</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pixawaretest.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:68101928519:ios:c73f6fe80b290516f9a362</string>
+</dict>
+</plist>
