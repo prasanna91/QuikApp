@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572776966673",
+    "project_id": "srijothimobiles",
+    "storage_bucket": "srijothimobiles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572776966673:android:808a63c9b24f09b4f71fb0",
+        "android_client_info": {
+          "package_name": "com.sjmhomeappliances.sjmhomeappliances"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-tQjOAZ0j2bo_zINLtlCHKa2rotQzlXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
